@@ -1,0 +1,10 @@
+<resources>
+    <array name="save_array">
+        <item name="save">Save</item>
+        <item name="Load">Load</item>
+
+    </array>
+    <string name="app_name">Sudoku</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
